@@ -1,0 +1,14 @@
+.mewah{
+    font-family: cursive;
+    color: #00CED1;
+    border: 2px;
+    margin: auto;
+    border-radius: 5px;
+    border-color: blue;
+    text-align: center;
+    border-width: 5px;
+    border-style: dashed;
+    }
+body{
+    background-color: brown
+}

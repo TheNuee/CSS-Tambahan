@@ -1,0 +1,17 @@
+#first{
+    height: 50px;
+}
+#second{
+    height: 100px;
+}
+#intro{
+    color: #FF0000;
+}
+#serious{
+    font-family: garamond;
+    font-size: 50px;
+    text-align: center; 
+}
+body{
+    background: linear-gradient(to right, rgb(206, 193, 193),grey,black)
+}
